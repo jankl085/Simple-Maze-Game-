@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-// Subtract half our health
-health -= 50;
+// Subtract our health
+health -= 100;
 
 // Jump back to starting position
 x = xstart;
